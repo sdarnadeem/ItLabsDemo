@@ -22,8 +22,8 @@ const PersonalInfo = ({
     type: 'source',
   });
 
-  const uri = route.params.uri;
-  const type = route.params.type;
+  const uri = route.params?.uri;
+  const type = route.params?.type;
 
   useEffect(() => {
     if (type || uri) {
