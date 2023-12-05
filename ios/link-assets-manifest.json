@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Abel-Regular.ttf",
+      "sha1": "5a10c588371618fdcd5555b126121a0fb9ec4c26"
+    },
+    {
+      "path": "src/assets/images/camera.png",
+      "sha1": "2cbed5a725d140afa684f80023d2a55e824d9ec0"
+    },
+    {
+      "path": "src/assets/images/cross.png",
+      "sha1": "d9cf8df3fe4c60c33fb4169e0e2a2a3208d27623"
+    },
+    {
+      "path": "src/assets/images/gallery.png",
+      "sha1": "bee79c5ea1345b354f77a5da5286abb9c50a998a"
+    },
+    {
+      "path": "src/assets/images/placeholder2.png",
+      "sha1": "61258ceb2e91a68cf9a75bca4c21d25d75c5e5de"
+    },
+    {
+      "path": "src/assets/images/profile_placeholder.png",
+      "sha1": "73ee8a57c0c31b2a22def9ce735839f8b1643daf"
+    },
+    {
+      "path": "src/assets/images/remove.png",
+      "sha1": "836447b8fd118da79ea716aa7be878ccb8d3747e"
+    },
+    {
+      "path": "src/assets/images/u_camera.png",
+      "sha1": "8d144ca9428bd39da1fde0915035474a04ead8d8"
+    }
+  ]
+}
